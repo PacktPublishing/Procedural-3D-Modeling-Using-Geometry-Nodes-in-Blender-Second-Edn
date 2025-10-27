@@ -120,11 +120,6 @@ By the end of this book, you’ll be able to tackle minor to major Geometry Node
   You can download **Blender 4.5** from the official website at:<br>
   👉 [https://download.blender.org/release/Blender4.5/](https://download.blender.org/release/Blender4.5/)
 
-  ---
-
-  > **Note:**  
-  > The author acknowledges the use of cutting-edge AI, such as *ChatGPT*, with the sole aim of enhancing the language and clarity within the book—thereby ensuring a smooth reading experience for readers.  
-  > It’s important to note that the content itself has been crafted by the author and edited by a professional publishing team. 
     
   </details>
     
