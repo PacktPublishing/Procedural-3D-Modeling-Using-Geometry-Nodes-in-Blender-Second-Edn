@@ -147,3 +147,11 @@ Siemen has worked as a product render designer in a furniture company. His goal 
 </ul>
 
 </details>
+
+### Correction Notice: Page 116 | Figure 6.23
+
+> **Correction:** The image currently displayed is a duplicate of Figure 5.23 on page 90. The corrected image is provided below for reference.
+
+<img width="1210" height="567" alt="Figure 6 23" src="https://github.com/user-attachments/assets/5a47c969-564a-4c94-a4dd-1e66224892fe" />
+
+
